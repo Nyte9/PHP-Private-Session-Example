@@ -1,0 +1,1 @@
+Simple cookie session ID
